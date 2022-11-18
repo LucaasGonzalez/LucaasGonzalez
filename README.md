@@ -19,5 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaasgonzalez&show_icons=true&locale=en&layout=compact" alt="lucaasgonzalez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaasgonzalez&show_icons=true&locale=en" alt="lucaasgonzalez" /></p>
-
